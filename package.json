@@ -1,0 +1,18 @@
+{
+  "name": "jsc-shader",
+  "version": "0.0.0",
+  "description": "jsc-shader ==========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aantthony/jsc-shader.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/aantthony/jsc-shader/issues"
+  }
+}
