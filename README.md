@@ -20,7 +20,7 @@ var s = new M.Expression.Shader(shaderSource).inject({
   }
 });
 
-Types based on https://github.com/mrdoob/three.js/wiki/Uniforms-types
+// 'type' based on https://github.com/mrdoob/three.js/wiki/Uniforms-types
 
 ```
 
